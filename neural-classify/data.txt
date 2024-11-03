@@ -1,0 +1,106 @@
+ANN:
+
+All measured loss is val_loss with a patience of 20
+
+Layer 1
+Score: 
+    precision: 0.8329764453961456
+    recall: 0.9652605459057072
+    f1: 0.8942528735632184
+
+200
+200
+200
+100
+10
+2
+
+Layer 2
+Score:
+    precision: 0.7738095238095238
+    recall: 0.967741935483871
+    f1: 0.8599779492833517
+
+200
+150
+100
+50
+10
+2
+
+Layer 3 -- Chosen Layer
+
+Score: train
+    precision: 0.8355555555555556
+    recall: 0.9330024813895782
+    f1: 0.8815943728018757
+    loss: 0.3254 - accuracy: 0.8545 - val_loss: 0.4016 - val_accuracy: 0.8919
+
+Score: test
+
+    precision: 0.8660714285714286
+    recall: 0.9238095238095239
+    f1: 0.8940092165898618
+
+100
+80
+60
+30
+10
+2
+
+
+SVC Grid Search:
+5 fold cross validation
+
+Score: train
+    precision: 0.882494004796163
+    recall: 0.913151364764268
+    f1: 0.8975609756097561
+
+Score: test
+    precision: 0.8333333333333334
+    recall: 0.9047619047619048
+    f1: 0.867579908675799
+
+Best Params:
+{   'features__categorical__categorical-features-only__do_numerical': False,
+    'features__categorical__categorical-features-only__do_predictors': True,
+    'features__categorical__encode-category-bits__categories': 'auto',
+    'features__categorical__encode-category-bits__handle_unknown': 'ignore',
+    'features__numerical__numerical-features-only__do_numerical': True,
+    'features__numerical__numerical-features-only__do_predictors': True,
+    'model__C': 1.0,
+    'model__coef0': 0.0,
+    'model__degree': 3,
+    'model__gamma': 'scale',
+    'model__kernel': 'linear'}
+
+Decision Tree:
+5 fold cross-validate
+
+Best Params:
+{   'features__categorical__categorical-features-only__do_numerical': False,
+    'features__categorical__categorical-features-only__do_predictors': True,
+    'features__categorical__encode-category-bits__categories': 'auto',
+    'features__categorical__encode-category-bits__handle_unknown': 'ignore',
+    'features__numerical__numerical-features-only__do_numerical': True,
+    'features__numerical__numerical-features-only__do_predictors': True,
+    'model__criterion': 'gini',
+    'model__max_depth': None,
+    'model__max_features': 'log2',
+    'model__max_leaf_nodes': 16,
+    'model__min_impurity_decrease': 0.0,
+    'model__min_samples_leaf': 0.02,
+    'model__min_samples_split': 0.01,
+    'model__splitter': 'best'}
+
+Score: train
+    precision: 0.8700980392156863
+    recall: 0.8808933002481389
+    f1: 0.8754623921085081
+
+Score: test
+    precision: 0.7889908256880734
+    recall: 0.819047619047619
+    f1: 0.8037383177570093

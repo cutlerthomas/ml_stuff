@@ -1,0 +1,648 @@
+        Running program with args: 0.4, 0.4, and 0.1
+        Learn: Average reward on all epochs -2.6508
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 1.96
+                                           
+Running program with args: 0.4, 0.4, and 0.2
+Learn: Average reward on all epochs -4.863
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs -4.37
+                                           
+Running program with args: 0.4, 0.4, and 0.3
+Learn: Average reward on all epochs -6.708
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 3.44
+                                           
+        Running program with args: 0.4, 0.5, and 0.1
+        Learn: Average reward on all epochs -1.5722
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 5.81
+                                           
+Running program with args: 0.4, 0.5, and 0.2
+Learn: Average reward on all epochs -3.3076
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 5.79
+                                           
+Running program with args: 0.4, 0.5, and 0.3
+Learn: Average reward on all epochs -5.158
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 5.5
+                                           
+        Running program with args: 0.4, 0.6, and 0.1
+        Learn: Average reward on all epochs -1.1096
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 3.22
+                                           
+Running program with args: 0.4, 0.6, and 0.2
+Learn: Average reward on all epochs -3.0438
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 5.52
+                                           
+Running program with args: 0.4, 0.6, and 0.3
+Learn: Average reward on all epochs -3.0382
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.95
+                                           
+Running program with args: 0.4, 0.7, and 0.1
+Learn: Average reward on all epochs -0.449
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.58
+                                           
+Running program with args: 0.4, 0.7, and 0.2
+Learn: Average reward on all epochs -1.4978
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 3.39
+                                           
+Running program with args: 0.4, 0.7, and 0.3
+Learn: Average reward on all epochs -3.2968
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 3.69
+                                           
+Running program with args: 0.4, 0.8, and 0.1
+Learn: Average reward on all epochs -0.1402
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 8.16
+                                           
+Running program with args: 0.4, 0.8, and 0.2
+Learn: Average reward on all epochs -0.051
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 8.19
+                                           
+Running program with args: 0.4, 0.8, and 0.3
+Learn: Average reward on all epochs -1.292
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 8.0
+                                           
+        Running program with args: 0.4, 0.9, and 0.1
+        Learn: Average reward on all epochs -0.1692
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.35
+                                           
+Running program with args: 0.4, 0.9, and 0.2
+Learn: Average reward on all epochs -1.4684
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.71
+                                           
+Running program with args: 0.4, 0.9, and 0.3
+Learn: Average reward on all epochs -2.2554
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.69
+                                           
+Running program with args: 0.5, 0.4, and 0.1
+Learn: Average reward on all epochs -1.2312
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 8.05
+                                           
+Running program with args: 0.5, 0.4, and 0.2
+Learn: Average reward on all epochs -2.351
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 3.46
+                                           
+Running program with args: 0.5, 0.4, and 0.3
+Learn: Average reward on all epochs -2.763
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 3.65
+                                           
+Running program with args: 0.5, 0.5, and 0.1
+Learn: Average reward on all epochs -0.1022
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.79
+                                           
+Running program with args: 0.5, 0.5, and 0.2
+Learn: Average reward on all epochs 0.131
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.56
+                                           
+Running program with args: 0.5, 0.5, and 0.3
+Learn: Average reward on all epochs -2.0834
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 5.79
+                                           
+        Running program with args: 0.5, 0.6, and 0.1
+        Learn: Average reward on all epochs 0.3206
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.28
+                                           
+Running program with args: 0.5, 0.6, and 0.2
+Learn: Average reward on all epochs -1.1038
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 5.57
+                                           
+        Running program with args: 0.5, 0.6, and 0.3
+        Learn: Average reward on all epochs -1.1998
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.35
+                                           
+Running program with args: 0.5, 0.7, and 0.1
+Learn: Average reward on all epochs 1.206
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.8
+                                           
+        Running program with args: 0.5, 0.7, and 0.2
+        Learn: Average reward on all epochs 0.2306
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.37
+                                           
+Running program with args: 0.5, 0.7, and 0.3
+Learn: Average reward on all epochs -1.3496
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.68
+                                           
+Running program with args: 0.5, 0.8, and 0.1
+Learn: Average reward on all epochs 1.0886
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.5
+                                           
+Running program with args: 0.5, 0.8, and 0.2
+Learn: Average reward on all epochs 0.4894
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.1
+                                           
+Running program with args: 0.5, 0.8, and 0.3
+Learn: Average reward on all epochs -2.4578
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 8.1
+                                           
+        Running program with args: 0.5, 0.9, and 0.1
+        Learn: Average reward on all epochs 0.7872
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 7.89
+                                           
+Running program with args: 0.5, 0.9, and 0.2
+Learn: Average reward on all epochs 0.4306
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.98
+                                           
+Running program with args: 0.5, 0.9, and 0.3
+Learn: Average reward on all epochs -1.9138
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.72
+                                           
+Running program with args: 0.6, 0.4, and 0.1
+Learn: Average reward on all epochs 0.5462
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 8.12
+                                           
+Running program with args: 0.6, 0.4, and 0.2
+Learn: Average reward on all epochs -0.0538
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.83
+                                           
+Running program with args: 0.6, 0.4, and 0.3
+Learn: Average reward on all epochs -2.1066
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.88
+                                           
+Running program with args: 0.6, 0.5, and 0.1
+Learn: Average reward on all epochs 0.7262
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.96
+                                           
+Running program with args: 0.6, 0.5, and 0.2
+Learn: Average reward on all epochs 0.771
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.86
+                                           
+        Running program with args: 0.6, 0.5, and 0.3
+        Learn: Average reward on all epochs -1.3512
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 6.14
+                                           
+        Running program with args: 0.6, 0.6, and 0.1
+        Learn: Average reward on all epochs 0.8336
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.34
+                                           
+Running program with args: 0.6, 0.6, and 0.2
+Learn: Average reward on all epochs 0.1064
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 8.17
+                                           
+Running program with args: 0.6, 0.6, and 0.3
+Learn: Average reward on all epochs -1.8848
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 5.55
+                                           
+Running program with args: 0.6, 0.7, and 0.1
+Learn: Average reward on all epochs 1.4932
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 8.19
+                                           
+Running program with args: 0.6, 0.7, and 0.2
+Learn: Average reward on all epochs 1.1412
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.97
+                                           
+Running program with args: 0.6, 0.7, and 0.3
+Learn: Average reward on all epochs -0.6928
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.82
+                                           
+Running program with args: 0.6, 0.8, and 0.1
+Learn: Average reward on all epochs 1.4464
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.34
+                                           
+Running program with args: 0.6, 0.8, and 0.2
+Learn: Average reward on all epochs 0.5746
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.95
+                                           
+Running program with args: 0.6, 0.8, and 0.3
+Learn: Average reward on all epochs 0.1328
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.7
+                                           
+Running program with args: 0.6, 0.9, and 0.1
+Learn: Average reward on all epochs 1.6642
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 8.02
+                                           
+Running program with args: 0.6, 0.9, and 0.2
+Learn: Average reward on all epochs 0.4954
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.6
+                                           
+Running program with args: 0.6, 0.9, and 0.3
+Learn: Average reward on all epochs -0.3298
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.74
+                                           
+Running program with args: 0.7, 0.4, and 0.1
+Learn: Average reward on all epochs 1.4296
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.99
+                                           
+        Running program with args: 0.7, 0.4, and 0.2
+        Learn: Average reward on all epochs 0.1494
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.16
+                                           
+Running program with args: 0.7, 0.4, and 0.3
+Learn: Average reward on all epochs -1.3232
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.83
+                                           
+Running program with args: 0.7, 0.5, and 0.1
+Learn: Average reward on all epochs 1.702
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.98
+                                           
+Running program with args: 0.7, 0.5, and 0.2
+Learn: Average reward on all epochs 0.7674
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.88
+                                           
+Running program with args: 0.7, 0.5, and 0.3
+Learn: Average reward on all epochs -0.5684
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.91
+                                           
+        Running program with args: 0.7, 0.6, and 0.1
+        Learn: Average reward on all epochs 2.4088
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.01
+                                           
+Running program with args: 0.7, 0.6, and 0.2
+Learn: Average reward on all epochs 0.6132
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.92
+                                           
+Running program with args: 0.7, 0.6, and 0.3
+Learn: Average reward on all epochs -0.0724
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.82
+                                           
+Running program with args: 0.7, 0.7, and 0.1
+Learn: Average reward on all epochs 1.963
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.38
+                                           
+        Running program with args: 0.7, 0.7, and 0.2
+        Learn: Average reward on all epochs 0.9656
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.04
+                                           
+Running program with args: 0.7, 0.7, and 0.3
+Learn: Average reward on all epochs -0.0912
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.8
+                                           
+Running program with args: 0.7, 0.8, and 0.1
+Learn: Average reward on all epochs 1.9202
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.31
+                                           
+        Running program with args: 0.7, 0.8, and 0.2
+        Learn: Average reward on all epochs 0.8478
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.13
+                                           
+        Running program with args: 0.7, 0.8, and 0.3
+        Learn: Average reward on all epochs -0.1192
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.2
+                                           
+Running program with args: 0.7, 0.9, and 0.1
+Learn: Average reward on all epochs 2.3244
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.78
+                                           
+Running program with args: 0.7, 0.9, and 0.2
+Learn: Average reward on all epochs 1.1464
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.56
+                                           
+Running program with args: 0.7, 0.9, and 0.3
+Learn: Average reward on all epochs -0.119
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.65
+                                           
+Running program with args: 0.8, 0.4, and 0.1
+Learn: Average reward on all epochs 1.6262
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.4
+                                           
+Running program with args: 0.8, 0.4, and 0.2
+Learn: Average reward on all epochs 1.2672
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.67
+                                           
+        Running program with args: 0.8, 0.4, and 0.3
+        Learn: Average reward on all epochs -0.032
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.03
+                                           
+Running program with args: 0.8, 0.5, and 0.1
+Learn: Average reward on all epochs 2.059
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.9
+                                           
+Running program with args: 0.8, 0.5, and 0.2
+Learn: Average reward on all epochs 0.994
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.95
+                                           
+        Running program with args: 0.8, 0.5, and 0.3
+        Learn: Average reward on all epochs 0.8106
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.02
+                                           
+Running program with args: 0.8, 0.6, and 0.1
+Learn: Average reward on all epochs 1.9192
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.87
+                                           
+Running program with args: 0.8, 0.6, and 0.2
+Learn: Average reward on all epochs 0.9848
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.86
+                                           
+Running program with args: 0.8, 0.6, and 0.3
+Learn: Average reward on all epochs 0.5098
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.72
+                                           
+        Running program with args: 0.8, 0.7, and 0.1
+        Learn: Average reward on all epochs 2.0684
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.51
+                                           
+Running program with args: 0.8, 0.7, and 0.2
+Learn: Average reward on all epochs 1.585
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.86
+                                           
+Running program with args: 0.8, 0.7, and 0.3
+Learn: Average reward on all epochs 0.8826
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.93
+                                           
+Running program with args: 0.8, 0.8, and 0.1
+Learn: Average reward on all epochs 2.4044
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.63
+                                           
+        Running program with args: 0.8, 0.8, and 0.2
+        Learn: Average reward on all epochs 1.7108
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.07
+                                           
+        Running program with args: 0.8, 0.8, and 0.3
+        Learn: Average reward on all epochs 0.3256
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.14
+                                           
+Running program with args: 0.8, 0.9, and 0.1
+Learn: Average reward on all epochs 2.29
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.6
+                                           
+Running program with args: 0.8, 0.9, and 0.2
+Learn: Average reward on all epochs 1.3434
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.67
+                                           
+Running program with args: 0.8, 0.9, and 0.3
+Learn: Average reward on all epochs 0.6884
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.29
+                                           
+        Running program with args: 0.9, 0.4, and 0.1
+        Learn: Average reward on all epochs 2.4036
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.09
+                                           
+        Running program with args: 0.9, 0.4, and 0.2
+        Learn: Average reward on all epochs 1.289
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.21
+                                           
+Running program with args: 0.9, 0.4, and 0.3
+Learn: Average reward on all epochs 1.202
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.95
+                                           
+Running program with args: 0.9, 0.5, and 0.1
+Learn: Average reward on all epochs 2.3802
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.58
+                                           
+Running program with args: 0.9, 0.5, and 0.2
+Learn: Average reward on all epochs 2.289
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.88
+                                           
+Running program with args: 0.9, 0.5, and 0.3
+Learn: Average reward on all epochs 0.626
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.48
+                                           
+Running program with args: 0.9, 0.6, and 0.1
+Learn: Average reward on all epochs 2.6398
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.87
+                                           
+Running program with args: 0.9, 0.6, and 0.2
+Learn: Average reward on all epochs 1.7642
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.74
+                                           
+        Running program with args: 0.9, 0.6, and 0.3
+        Learn: Average reward on all epochs 0.6962
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 8.16
+                                           
+Running program with args: 0.9, 0.7, and 0.1
+Learn: Average reward on all epochs 2.821
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.8
+                                           
+Running program with args: 0.9, 0.7, and 0.2
+Learn: Average reward on all epochs 1.9188
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.76
+                                           
+Running program with args: 0.9, 0.7, and 0.3
+Learn: Average reward on all epochs 0.242
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.95
+                                           
+Running program with args: 0.9, 0.8, and 0.1
+Learn: Average reward on all epochs 2.1338
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.96
+                                           
+Running program with args: 0.9, 0.8, and 0.2
+Learn: Average reward on all epochs 1.9792
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.88
+                                           
+Running program with args: 0.9, 0.8, and 0.3
+Learn: Average reward on all epochs 0.059
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.36
+                                           
+        Running program with args: 0.9, 0.9, and 0.1
+        Learn: Average reward on all epochs 2.7756
+        Model saved to lake-model.joblib.
+        Model loading from lake-model.joblib.
+        Score: Average reward on all epochs 7.7
+                                           
+Running program with args: 0.9, 0.9, and 0.2
+Learn: Average reward on all epochs 2.0236
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.52
+                                           
+Running program with args: 0.9, 0.9, and 0.3
+Learn: Average reward on all epochs -0.2288
+Model saved to lake-model.joblib.
+Model loading from lake-model.joblib.
+Score: Average reward on all epochs 7.35
+                                           
